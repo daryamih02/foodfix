@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodFix_1.2</string>
+    <string name="foodfix">FoodFix</string>
+    <string name="Restorator">Ресторатор</string>
+    <string name="User">Гость</string>
+</resources>
